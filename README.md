@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi, I'm Md Al Amin
-#### -_ 𝓕𝓻𝓸𝓷𝓽-𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻.. _-
+#### -_  Front-end Developer.. _-
 ![-_ 𝓕𝓻𝓸𝓷𝓽-𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻.. _-](https://media.licdn.com/dms/image/D5616AQGJTJslmeH4qg/profile-displaybackgroundimage-shrink_350_1400/0/1681888301521?e=1687392000&v=beta&t=Je2nt61IRXu3URA2mLSYIhliN1Kp5eK8Pz1-jP6Z_lY)
 
 I'm a Computer Engineer & Professional Front-end Developer.
