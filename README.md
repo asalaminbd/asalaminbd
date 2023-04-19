@@ -6,13 +6,13 @@ I'm a Computer Engineer & Professional Front-end Developer.
 My professional skills are (HTML | CSS | Bootstrap | Responsive Design | Template Customization | WordPress Theme Customization )
 
 Skills: 
-> HTML
-> CSS 
-> Bootstrap 
-> Tailwind CSS
-> WordPress Design 
-> JavaScript 
-> jQuery 
+<br> HTML<br>
+> CSS <br>
+> Bootstrap<br> 
+> Tailwind CSS<br>
+> WordPress Design <br>
+> JavaScript <br>
+> jQuery <br>
 > PHP
 
 - 🌱 I’m currently learning LARAVEL FRAMEWORK 
